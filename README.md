@@ -1,6 +1,6 @@
-==================================================
+============================
                     Rs v1.0.0
-==================================================
+============================
 
 About Rs:
 Rs is a lightweight GUI media downloader powered by yt-dlp with a clean dark interface,
